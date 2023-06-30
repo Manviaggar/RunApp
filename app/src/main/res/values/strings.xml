@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">runapp</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+    <string name="pause">Pause</string>
+    <string name="run">Run A Race</string>
+    <string name="player1">Player One</string>
+    <string name="player2">Player Two</string>
+    <string name="progress_percentage">%1$d%%</string>
+</resources>
